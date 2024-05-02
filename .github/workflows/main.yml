@@ -1,0 +1,33 @@
+name: Run Summarization and Push Updates
+
+on:
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10.6'
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Run summarization script
+      run: python main.py
+    - name: Check for changes
+      id: git-check
+      run: |
+        git diff --quiet && echo "No changes" || echo "::set-output name=changes::true"
+    - name: Commit and push changes
+      if: steps.git-check.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "Update summary"
+        git push
