@@ -137,7 +137,7 @@ def write_markdown_html():
         with open(MARKDOWN_FILE, "r", encoding="utf-8") as file:
             text = file.read()
             content = markdown.markdown(text)
-        with open("summary_output.html", "w", encoding="utf-8") as file:
+        with open("index.html", "w", encoding="utf-8") as file:
             html = f"""
             <!doctype html>
             <html lang="en">
