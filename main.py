@@ -177,7 +177,7 @@ def summarize_text(text):
     word_count = len(text.split())
     if word_count < 30:
         return "No summary available."
-    user_min_len = max(30, int(word_count * 0.05))
+    user_min_len = max(40, int(word_count * 0.05))
     user_max_len = max(100, int(word_count * 0.1))
     inputs = tokenizer(text, return_tensors="pt", max_length=1024, truncation=True)
     summary_ids = summarizer.model.generate(
@@ -270,5 +270,7 @@ def write_markdown_html():
 if __name__ == "__main__":
     nltk.download("vader_lexicon")
     rss_url = "http://feeds.bbci.co.uk/news/world/rss.xml"
+    # rss_url = "http://feeds.arstechnica.com/arstechnica/technology-lab"  # timezone broken here
+    # rss_url = "http://rss.cnn.com/rss/cnn_us.rss" # date missing for some
     process_feed(rss_url)
     write_markdown_html()

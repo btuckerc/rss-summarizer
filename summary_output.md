@@ -9,13 +9,13 @@
 **Script ran:** `05/02/2024`  
 
 ---
-### [Police criticised over LA campus clash response](https://www.bbc.co.uk/news/world-us-canada-68937775)
+### [Protesters warned to disperse as police mass on LA campus](https://www.bbc.co.uk/news/live/world-us-canada-68941518)
 
-![Image](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6171/production/_133254942_e2ca1486dbbc2f5b717fb5f4d14dc1507df5cc390_625_6000_33771000x563.jpg)
+![Image](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/F54B/production/_133259726_1a3978d34925faa090fdda7f17e12802c5cc03d2617_1840_3069_17261000x563.jpg)
 
-UCLA clashes: Police criticised for 'delayed' response to violence. Governor Gavin Newsom's spokesperson said the "limited and delayed" police intervention was "unacceptable" Hundreds of police swarmed the campus early on Wednesday morning after more than two hours of fighting. Los Angeles Mayor Karen Bass slammed the clashes as "absolutely abhorrent and inexcusable"
+More than 1,000 protesters have been ordered to disperse by police. Hundreds of people have barricaded themselves inside the encampment. Police have ordered them to leave or face arrest. Earlier, there was violence between pro-Palestinian groups and counter-protesters.
 
-_Published on: Thu, 02 May 2024 05:53:41 GMT_
+_Published on: Thu, 02 May 2024 06:53:09 GMT_
 
 ### [Israel accused of possible war crime over killing of West Bank boy](https://www.bbc.com/news/articles/cw07wgrwzywo)
 
@@ -41,6 +41,14 @@ Grammy-winning artist had a run of instrumental hits in the 1950s and 60s. He re
 
 _Published on: Thu, 02 May 2024 00:55:50 GMT_
 
+### [Dua Lipa wants to turn this year's Glastonbury into a nightclub](https://www.bbc.com/news/articles/cw4dlg2qvn8o)
+
+![Image](https://ichef.bbci.co.uk/news/240/cpsprodpb/fcb7/live/72128490-06dd-11ef-b9d8-4f52aebe147d.jpg)
+
+When Dua Lipa headlines Glastonbury this June, it will be her first appearance at Worthy Farm since playing the cramped John Peel stage in 2017. “I was doing all sorts of crazy stuff and when I got off stage, I could barely walk,” she admitted. Despite the pain, she was ecstatic. The gig felt like "a massive step up’ The star has sold 1.5 million copies of her two albums in the UK alone. Her first hit, New Rules, clocked up its three-billionth play on YouTube this January. It's a record that sees her navigating life after a major break-up, and establishing new New rules to break a pattern of dating wrong ‘uns. She says she has learned to not kid herself: "I've learned not to kid myself" She also wants to turn this year's festival into a nightclub, with a bar and a dancefloor. But as she sat down to talk to the BBC she winced, saying she'd mashed her tailbone. "It was an aggravation of an old injury, caused by the whiplash intensity of my dancing," she said.
+
+_Published on: Wed, 01 May 2024 23:19:33 GMT_
+
 ### [Face of 75,000-year-old Neanderthal woman revealed](https://www.bbc.co.uk/news/science-environment-68922877)
 
 ![Image](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/132EF/production/_133257587_neanderthal3d_model.jpg)
@@ -48,14 +56,6 @@ _Published on: Thu, 02 May 2024 00:55:50 GMT_
 Face of 75,000-year-old Neanderthal woman revealed. Based on the flattened, shattered remains of a skull. Researchers first had to strengthen the fragments before reassembling them. Expert palaeoartists then created the 3D model. The representation appears in a new BBC Studios documentary for Netflix called Secrets of the Neanderthals.
 
 _Published on: Wed, 01 May 2024 23:09:43 GMT_
-
-### [The insect farmers turning to AI to help lower costs](https://www.bbc.co.uk/news/business-68880241)
-
-![Image](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/CEB0/production/_133221925_gettyimages-1237942962.jpg)
-
-Full Circle Biotechnology is training an AI system to study past and present data on insect farming to determine and then fine tune the best methods. In Lithuania, insect farm software provider Cogastro is also working on anAI-based system. Both firms say they are wary of companies in the space that claim they already have AI systems readily available.
-
-_Published on: Wed, 01 May 2024 23:05:47 GMT_
 
 ### [Watch: Inside Lebanon's ghost towns after Israeli strikes](https://www.bbc.co.uk/news/world-middle-east-68938611)
 
@@ -65,13 +65,13 @@ Israel has been carrying out strikes on southern Lebanon almost daily since Hezb
 
 _Published on: Wed, 01 May 2024 23:17:39 GMT_
 
-### [On his day off court, fired-up Trump hits swing states](https://www.bbc.co.uk/news/world-us-canada-68932499)
+### [The insect farmers turning to AI to help lower costs](https://www.bbc.co.uk/news/business-68880241)
 
-![Image](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9533/production/_133259183_trump_wisconsin.jpg)
+![Image](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/CEB0/production/_133221925_gettyimages-1237942962.jpg)
 
-On a day off from court, fired-up Trump hits swing states. Republican presidential candidate has appeared at times irritated or lethargic in court. But on Wednesday at a rally outside of Milwaukee, Wisconsin, he seemed fired up. He hit on most of his campaign's major themes - immigration, economy, foreign policy.
+Full Circle Biotechnology is training an AI system to study past and present data on insect farming to determine and then fine tune the best methods. In Lithuania, insect farm software provider Cogastro is also working on anAI-based system. Both firms say they are wary of companies in the space that claim they already have AI systems readily available.
 
-_Published on: Wed, 01 May 2024 23:12:19 GMT_
+_Published on: Wed, 01 May 2024 23:05:47 GMT_
 
 ### [Columbia campus community 'shattered' by police raid](https://www.bbc.co.uk/news/world-us-canada-68940438)
 
@@ -113,13 +113,13 @@ Georgia rocked by clashes over 'foreign agent' bill. Riot police in Georgia fire
 
 _Published on: Wed, 01 May 2024 20:40:35 GMT_
 
-### [Blinken says 'time is now' for Israel-Hamas deal in Gaza](https://www.bbc.co.uk/news/world-middle-east-68939445)
+### [Why European elections matter and how they work](https://www.bbc.co.uk/news/world-europe-68899405)
 
-![Image](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2125/production/_133258480_b1e87bed1171b7238a4ac6b215e0a50553ad1c2c0_0_5500_36671000x667.jpg)
+![Image](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/B397/production/_133257954_gettyimages-2150354390.jpg)
 
-Blinken says 'time is now' for Israel-Hamas deal in Gaza. Mediators are awaiting a response from Hamas to the latest proposal. It reportedly involves a 40-day ceasefire and the release of more than 30 Israeli hostages in exchange for many more Palestinian prisoners.
+About 400 million voters are eligible to vote from Finland in north to Cyprus in south, Ireland in west to Bulgaria in east. At stake is the make-up of the next European Parliament, the direct link between Europeans and the EU's institutions. The Parliament passes laws that affect the lives of EU citizens and has the job of endorsing the annual budget, which this year reached €189bn (£160bn)
 
-_Published on: Wed, 01 May 2024 17:41:17 GMT_
+_Published on: Wed, 01 May 2024 17:31:48 GMT_
 
 ### [Ukrainian, 98, tells BBC of six-mile walk to escape Russians](https://www.bbc.co.uk/news/world-europe-68936842)
 
@@ -149,7 +149,7 @@ _Published on: Wed, 01 May 2024 16:00:10 GMT_
 
 ![Image](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13EA7/production/_133257518_p0hvcgfw.jpg)
 
-Captured Western military hardware has been on display in Moscow's Victory Park. Swathes of Russians attended the exhibition to see the war trophies. The BBC's Russia Editor, Steve Rosenberg, explained what Russia may be trying to achieve through the event.
+Captured Western military hardware has been on display in Moscow's Victory Park. Swathes of Russians attended the exhibition to see the war trophies. The BBC's Russia Editor, Steve Rosenberg, went to take a look and explained what Russia may be trying to achieve.
 
 _Published on: Wed, 01 May 2024 13:50:17 GMT_
 
@@ -165,7 +165,7 @@ _Published on: Wed, 01 May 2024 05:24:17 GMT_
 
 ![Image](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12B8C/production/_133248667_p0hv07d8.jpg)
 
-South China Sea: BBC on board Philippine ship hit by Chinese water cannon. Both China and the Philippines lay claim to the waters near Scarborough Shoal. The Philippine government, under President Marcos Jr. has increased patrols.
+South China Sea: BBC on board Philippine ship hit by Chinese water cannon. Both China and the Philippines lay claim to the waters near Scarborough Shoal. The Philippine government has increased patrols to challenge China's domination in these waters.
 
 _Published on: Tue, 30 Apr 2024 09:39:05 GMT_
 
@@ -189,7 +189,7 @@ _Published on: Sun, 28 Apr 2024 07:07:54 GMT_
 
 ![Image](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181A4/production/_133242789_p0htpx6w.jpg)
 
-A tornado has ripped through China's Guangdong province, killing five people and injuring 33. According to local authorities, 141 factory buildings were damaged and hail stones the size of golf balls were seen hitting the ground.
+A tornado has ripped through China's Guangdong province, killing five people and injuring 33. 141 factory buildings were damaged and hail stones the size of golf balls were seen hitting the ground in the city of Guangzhou.
 
 _Published on: Sun, 28 Apr 2024 11:51:38 GMT_
 
